@@ -8,3 +8,6 @@ When adding a contact, separate emails with a SINGLE space, this will allow the 
 ###### Bulk Message
 Bulk messaging will send a single message to EVERYBODY in your contacts
 Bulk Spam will will spam EVERYBODY in your contacts
+
+## Disclaimer
+All materialcas, source code, and guides are for educational purposes only and should not be used for malicious intent.
